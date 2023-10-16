@@ -1,0 +1,3 @@
+{
+  "extends": ["github>namachan10777/renovate-config:hoge.json5"]
+}
